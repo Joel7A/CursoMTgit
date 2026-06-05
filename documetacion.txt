@@ -1,0 +1,8 @@
+git checkout -b desarrollo
+Crea la rama desarrollo y te cambia a ella inmediatamente.
+git branch
+Úsalo para verificar que el asterisco * esté marcando tu nueva rama.
+git add . y git commit -m "Mensaje"
+Trabaja normalmente y guarda tus cambios dentro de esta rama.
+git push origin desarrollo
+Sube la rama secundaria a GitHub para tener un respaldo en la nube.
